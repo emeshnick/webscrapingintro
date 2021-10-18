@@ -1,0 +1,16 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "Basic webscraping for students in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scripts/index.js"
+  },
+  "author": "Elijah Meshnick",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
